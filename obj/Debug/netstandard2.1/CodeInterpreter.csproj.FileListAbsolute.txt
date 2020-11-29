@@ -370,8 +370,10 @@ C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\o
 C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\Razor\Pages\ToDo.razor.g.cs
 C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\RazorDeclaration\Pages\MoneyConverter.razor.g.cs
 C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\Razor\Pages\MoneyConverter.razor.g.cs
-C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\integrity\jJxS0LC1nWL9a6ITIIOaPyrR9CeByRdLvwANHfHAuYE=.hash
-C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\integrity\XTBvleece7KV1xJoV49PafPohQzGiXA2_Vt94lyVu08=.hash
-C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\integrity\53dLcuTswJJkvIitK0M9YWn9liAe26anhEN66Yr2cJw=.hash
-C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\integrity\-T_dzcLGUJMClX1NKQHHxAXORpPqC2-Xc_TVg7YjQuI=.hash
-C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\integrity\f0a-sN9YEC7wDvDlERKYsps-JcjeZp2uhXVkyD3eDbE=.hash
+C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\RazorDeclaration\Pages\CaesarCipher.razor.g.cs
+C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\Razor\Pages\CaesarCipher.razor.g.cs
+C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\integrity\izon6MrrQ-j6msQEbezUlIGEc8bYLoprUMLY51_LVKk=.hash
+C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\integrity\NjlNu-fRhvFdFHOOFCqFfwToOcPB4JESMx4-GSoEG2A=.hash
+C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\integrity\g5Jk3MnlLdVvO4xvTYO8XP3ue4CYF0HJ3wE7JhQUBoU=.hash
+C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\integrity\KkFt0e5h73DVY9lpIzcvxcR3p0obpjGmuFI3lsgwPac=.hash
+C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\integrity\L1nueG2MpZoGJaebGcX6whP980mFnje69omAqw8oic4=.hash

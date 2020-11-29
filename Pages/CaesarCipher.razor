@@ -1,0 +1,87 @@
+﻿@page "/CezarCipher"
+
+
+<h3> CezarCipher </h3>
+<div class="form-group">
+    <div class=" col-md-4">
+        <div class="form-group">
+            <label> Text to encript </label>
+            <input type="text" class="form-control" placeholder="StringToCode" @bind="input" @bind:event="oninput" />
+
+        </div>
+        <div class="form-group">
+            <label> Key </label>
+            <input type="number" class="form-control" placeholder="Key" @bind="keycode" />
+
+        </div>
+        <div class="form-group">
+            <button class="btn btn-primary mt-1" @onclick="Code"> Encript </button>
+            <button class="btn btn-primary mt-1" @onclick="DeCode"> Decript </button>
+        </div>
+
+    </div>
+    @if (output != null)
+    {
+        <div class="row blockquote mt-5">
+            <span>Your text is @output </span>
+            
+
+        </div>
+    }
+
+
+
+</div>
+
+
+@code {
+
+    public string input { get; set;  }
+    public string? output { get; set; } = null;
+    public int keycode { get; set; } = 1;
+
+    private void Code()
+    {
+
+        output = Encipher(input, keycode);
+
+    }
+
+    private void DeCode()
+    {
+
+        output = Decipher(input, keycode);
+
+    }
+
+    private static char cipher(char ch, int key)
+    {
+        if (!char.IsLetter(ch))
+        {
+
+            return ch;
+        }
+
+        char d = char.IsUpper(ch) ? 'A' : 'a';
+        return (char)((((ch + key) - d) % 26) + d);
+
+
+    }
+
+
+    private string Encipher(string input, int key)
+    {
+        string output = string.Empty;
+
+        foreach (char ch in input)
+            output += cipher(ch, key);
+
+        return output;
+    }
+
+    private string Decipher(string input, int key)
+    {
+        return Encipher(input, 26 - key);
+    }
+
+}
