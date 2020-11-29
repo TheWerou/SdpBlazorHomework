@@ -1,0 +1,39 @@
+﻿<div class="form-group">
+    <div class=" col-md-4">
+        <div class="form-group">
+            <label> cos </label>
+            <input type="number" class="form-control" placeholder="Meters" @bind="Meters" @bind:event="oninput"/>
+
+        </div>
+    </div>
+    @if(_inaches != null)
+    {
+        <div class="row blockquote mt-5">
+            <span>@Meters m equal to @_inaches inaches</span>
+
+        </div>
+
+    }
+</div>
+
+@code {
+    double? _inaches = null;
+    double? _meters = null;
+
+    public double? Meters
+    {
+        get => _meters;
+        set
+        {
+            _meters = value;
+            ConverterDistance();
+        }
+
+    }
+    private void ConverterDistance()
+    {
+        _inaches = Meters / 0.0254d;
+    }
+
+
+}

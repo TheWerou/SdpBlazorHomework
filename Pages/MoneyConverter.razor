@@ -1,0 +1,47 @@
+﻿<h> MoneyConverter </h>
+<div class="form-group">
+    <div class="col-md-4">
+        <div class="form-group">
+            <label> Currency </label>
+            <input type="number" class="form-control" placeholder="Hours" @bind="Money" />
+
+        </div>
+        <div class="form-group">
+            <label>Money Converter</label>
+            <input type="number" class="form-control" placeholder="Przelicznik" @bind="monConverter" />
+
+        </div>
+    </div>
+    <button class="btn btn-primary" @onclick="CalcForsa">
+        <span class="oi oi-clock"></span> Convert curency
+    </button>
+    @if (Dolars != null)
+    {
+        <div class="row blockquote mt-5">
+            <span> @Money PLN in USD is @Dolars </span>
+
+        </div>
+    }
+
+
+
+</div>
+
+@code {
+    public double monConverter  { get; set; }
+    public double Money { get; set; }
+    public double? Dolars = null;
+
+
+    private void CalcForsa()
+    {
+        if(monConverter != 0)
+        {
+            Dolars = Money * monConverter;
+        }
+        else
+        {
+            Dolars = Money * 3.96;
+        }
+    }
+}

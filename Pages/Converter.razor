@@ -1,0 +1,52 @@
+﻿@page "/converters"
+<h3>Converter</h3>
+
+
+
+<select @bind="@selectedConvertedId" class="form-control col-md-4 mb-4">
+    @foreach (var conv in converteres)
+    {
+        <option value="@conv.Id">@conv.NameOfConverter </option>
+    }
+
+</select>
+@switch (selectedConvertedId)
+{
+    case 1:
+        <TimeConverter></TimeConverter>
+        break;
+    case 2:
+        <DistansConverter> </DistansConverter>
+        break;
+    case 3:
+        <MoneyConverter></MoneyConverter>
+        break;
+    case 4:
+        <p>>Pls select something </p>
+        break;
+}
+
+@code {
+    readonly IList<Converters> converteres = new List<Converters>
+{
+        new Converters(id: 1,  nameofconverter:"time converter"),
+        new Converters(id: 2, nameofconverter:"Distance converter"),
+        new Converters(id: 3, nameofconverter:"Money converter")
+    };
+
+    int selectedConvertedId;
+
+    public class Converters
+    {
+        public int Id { get; set; }
+        public string NameOfConverter { get; set; }
+
+        public Converters(int id, string nameofconverter)
+        {
+            Id = id;
+            NameOfConverter = nameofconverter;
+        }
+
+    }
+
+}
