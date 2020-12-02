@@ -372,8 +372,8 @@ C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\o
 C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\Razor\Pages\MoneyConverter.razor.g.cs
 C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\RazorDeclaration\Pages\CaesarCipher.razor.g.cs
 C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\Razor\Pages\CaesarCipher.razor.g.cs
-C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\integrity\izon6MrrQ-j6msQEbezUlIGEc8bYLoprUMLY51_LVKk=.hash
-C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\integrity\NjlNu-fRhvFdFHOOFCqFfwToOcPB4JESMx4-GSoEG2A=.hash
-C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\integrity\g5Jk3MnlLdVvO4xvTYO8XP3ue4CYF0HJ3wE7JhQUBoU=.hash
-C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\integrity\KkFt0e5h73DVY9lpIzcvxcR3p0obpjGmuFI3lsgwPac=.hash
 C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\integrity\L1nueG2MpZoGJaebGcX6whP980mFnje69omAqw8oic4=.hash
+C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\integrity\mO9GHQrhgQEVejTmkRI61fMpPCoFRcOT-43u4qWxd_s=.hash
+C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\integrity\JCYl_Nd7rjZZ5k5rdBKnDFn2SKCoT5piUVrkRogzAZU=.hash
+C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\integrity\6Y_h4mp_l8pHAnt6j30t5RBnQjpZZjIhG1gevqxa7gc=.hash
+C:\Users\wojte\OneDrive\Pulpit\Programowanie\c_hasz\SDP\Blazor\CodeInterpreter\obj\Debug\netstandard2.1\integrity\N_t8lfIBfkayPZ014l5rYtHu-MtQ5NRT9vRyOA1eIFc=.hash

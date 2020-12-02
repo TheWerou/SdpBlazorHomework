@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\NjlNu-fRhvFdFHOOFCqFfwToOcPB4JESMx4-GSoEG2A=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\mO9GHQrhgQEVejTmkRI61fMpPCoFRcOT-43u4qWxd_s=.hash",
       "Source": "C:\\Users\\wojte\\OneDrive\\Pulpit\\Programowanie\\c_hasz\\SDP\\Blazor\\CodeInterpreter\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\CodeInterpreter.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/CodeInterpreter.dll.br"
     },
@@ -261,7 +261,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\g5Jk3MnlLdVvO4xvTYO8XP3ue4CYF0HJ3wE7JhQUBoU=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\JCYl_Nd7rjZZ5k5rdBKnDFn2SKCoT5piUVrkRogzAZU=.hash",
       "Source": "C:\\Users\\wojte\\OneDrive\\Pulpit\\Programowanie\\c_hasz\\SDP\\Blazor\\CodeInterpreter\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\CodeInterpreter.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/CodeInterpreter.pdb.br"
     },
@@ -286,12 +286,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\KkFt0e5h73DVY9lpIzcvxcR3p0obpjGmuFI3lsgwPac=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\6Y_h4mp_l8pHAnt6j30t5RBnQjpZZjIhG1gevqxa7gc=.hash",
       "Source": "C:\\Users\\wojte\\OneDrive\\Pulpit\\Programowanie\\c_hasz\\SDP\\Blazor\\CodeInterpreter\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\L1nueG2MpZoGJaebGcX6whP980mFnje69omAqw8oic4=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\N_t8lfIBfkayPZ014l5rYtHu-MtQ5NRT9vRyOA1eIFc=.hash",
       "Source": "C:\\Users\\wojte\\OneDrive\\Pulpit\\Programowanie\\c_hasz\\SDP\\Blazor\\CodeInterpreter\\obj\\Debug\\netstandard2.1\\blazor\\service-worker-assets.js",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\service-worker-assets.js.br"
     }
